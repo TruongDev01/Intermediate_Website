@@ -1,0 +1,23 @@
+🕹️ Simon Game – How to Play (Summary)
+
+- Start the Game
+
+Press any key to begin.
+
+- Watch the Sequence
+
+The game shows a sequence of colors (Green, Red, Yellow, Blue).
+
+- Repeat the Sequence
+
+Click the colors (or press keys if set) in the same order.
+
+- Level Up
+
+Each round adds one more color to the sequence.
+
+- Game Over
+
+If you press the wrong color, the game ends.
+
+Press any key to restart.
