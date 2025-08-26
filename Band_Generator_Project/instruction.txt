@@ -1,0 +1,4 @@
+This project generate a random name
+
+npm install express ejs
+
